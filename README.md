@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @Klays21
-- Learning Python
-- Learning Java
-- MYSQL
-- HTML, CSS and Javascript
-- 
+- Languages I'm learning:
+    - Assembly (x64)
+    - C
+- Languages I already know:
+    - Java
+    - HTML
+    - CSS
+    - Python
+    - MYSQL
+    - Javascript
+
